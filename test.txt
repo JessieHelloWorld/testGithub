@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is master test
+=======
+this is test.txt in testBranch.
+>>>>>>> testBranch
