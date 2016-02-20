@@ -1,5 +1,0 @@
-
-this is master test
-AND
-this is test.txt in testBranch.
-
